@@ -1,6 +1,5 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
-apply plugin: 'com.jfrog.bintray'
 
 def libName = 'library1'
 def siteUrl = 'https://github.com/247321453/xxxxxxx'
